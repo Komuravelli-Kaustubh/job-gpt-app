@@ -1,0 +1,27 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+
+# Streamlit specific
+*.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# IDE specific files
+.idea/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+
+# Other sensitive files (you can add your own files/folders here)
