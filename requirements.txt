@@ -4,3 +4,4 @@ groq
 requests
 careerjet-api-client
 careerjet_api
+setuptools
